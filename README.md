@@ -1,8 +1,4 @@
-Here's a refined and detailed README template for your Terraform project, including sections on architecture, setup, deployment, and a summary of advanced features:
-
----
-
-# **Terraform Infrastructure on AWS**
+## **Terraform Infrastructure on AWS**
 
 ## **Project Overview**
 This project demonstrates how to use Terraform to provision and manage a fully functional AWS infrastructure. The infrastructure includes a Virtual Private Cloud (VPC), public subnets, security groups, an Application Load Balancer (ALB), EC2 instances, an S3 bucket, and additional components necessary for running a highly available and secure web application. This README provides a step-by-step guide to the project's architecture, setup, deployment process, and suggestions for advanced configurations.
